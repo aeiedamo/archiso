@@ -1,0 +1,11 @@
+[Unit]
+Description=Double font size
+After=getty@tty1.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/bin/setfont -d
+
+[Install]
+WantedBy=getty.target
