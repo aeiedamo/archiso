@@ -12,6 +12,4 @@ bootmodes=('uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
 pacman_conf="pacman.conf"
 airootfs_image_type="erofs"
-airootfs_image_tool_options=('-zlzma,109' -E 'ztailpacking')
-bootstrap_tarball_compression=(zstd -c -T0 --long -19)
 file_permissions=(["/root/"]="0:0:750")
