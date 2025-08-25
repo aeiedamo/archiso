@@ -15,7 +15,6 @@ mkinitcpio-archiso
 networkmanager
 nvme-cli
 power-profiles-daemon
-pv
 sof-firmware
 throttled
 vim
