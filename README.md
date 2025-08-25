@@ -29,7 +29,6 @@ Then you need to run these two commands:
 
 ```
 git clone https://github.com/aeiedamo/archiso
-
 sudo mkarchiso -v ./archiso/main
 ```
 
