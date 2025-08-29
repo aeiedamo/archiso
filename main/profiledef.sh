@@ -12,4 +12,3 @@ bootmodes=('uefi-x64.systemd-boot.eltorito')
 arch="x86_64"
 pacman_conf="pacman.conf"
 airootfs_image_type="erofs"
-file_permissions=(["/root/"]="0:0:750")

@@ -1,4 +1,3 @@
-alsa-firmware
 alsa-utils
 arch-install-scripts
 base
@@ -15,6 +14,5 @@ mkinitcpio-archiso
 networkmanager
 nvme-cli
 power-profiles-daemon
-sof-firmware
 throttled
 vim
