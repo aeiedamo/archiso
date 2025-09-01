@@ -10,7 +10,6 @@ This is my configuration for Arch Linux ISO for a perfect installation for me.
 - Default Bash config.
 - Disable hardware watchdogs on reboot.
 - Maximum performance preset.
-- Minimalist mkinitcpio hooks.
 - NetworkManager for internet connection.
 - NO SSH, Virtualization, nor Containerization.
 - NVME utilies.
