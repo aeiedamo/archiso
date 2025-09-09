@@ -1,1 +1,1 @@
-./ppdprofile.service
+/root/archiso/main/airootfs/etc/systemd/system/ppdprofile.service

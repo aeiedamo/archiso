@@ -4,12 +4,10 @@ base
 bash-completion
 btrfs-progs
 dosfstools
-erofs-utils
 gptfdisk
 intel-ucode
 linux
 linux-firmware-intel
-man-db
 mkinitcpio
 mkinitcpio-archiso
 networkmanager

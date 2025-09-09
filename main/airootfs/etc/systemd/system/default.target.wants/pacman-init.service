@@ -1,1 +1,1 @@
-./pacman-init.service
+/root/archiso/main/airootfs/etc/systemd/system/pacman-init.service

@@ -9,6 +9,7 @@ This is my configuration for Arch Linux ISO for a perfect installation for me.
 - BTRFS utilites.
 - Default Bash config.
 - Disable hardware watchdogs on reboot.
+- Maximum compression using erofs.
 - Maximum performance preset.
 - NetworkManager for internet connection.
 - NO SSH, Virtualization, nor Containerization.
